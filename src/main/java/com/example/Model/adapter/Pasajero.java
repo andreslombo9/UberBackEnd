@@ -7,10 +7,7 @@ package AdapterSoftware;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author josep
- */
+
 public class Pasajero extends User {
 
 

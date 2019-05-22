@@ -7,10 +7,7 @@ package AdapterSoftware;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author josep
- */
+
 public class Admin extends User {
     
     public Admin(String Usuario, String Password) {

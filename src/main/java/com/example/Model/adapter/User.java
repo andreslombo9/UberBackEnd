@@ -6,10 +6,7 @@
 package AdapterSoftware;
 
 
-/**
- *
- * @author josep
- */
+
 public abstract class User {
     private String Usuario;
     private String Password;
